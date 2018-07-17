@@ -1,2 +1,2 @@
 # dubbo
-dubbo project demo
+使用dubbo前请先安装zokeeper服务
